@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #dcdbdb;
     font-family: Arial, sans serif;
@@ -33,4 +34,41 @@ p{
 a{
     color: #1bb9c2;
     font-weight: 700;
+=======
+body{
+    background-color: #dcdbdb;
+    font-family: Arial, sans serif;
+    margin-top: 100px;
+    margin-left: 200px;
+    padding: 5px;
+    border: 2px solid black;
+    width: 800px;
+}
+div{
+    background-color: white;
+    color: dimgrey;
+}
+h1{
+    border-bottom: 2px solid black;
+    color: #1bb9c2;
+    padding-bottom: 14px;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+h2{
+    text-align: left; 
+    border-bottom: 1px dotted #1bb9c2;
+    padding-bottom: 10px;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    width: 80%;
+}
+p{
+    margin-left: 40px;
+    height: 1.5em;
+}
+a{
+    color: #1bb9c2;
+    font-weight: 700;
+>>>>>>> 81b87a0dfc688db6f15cb76ba295fabcf41cf16b
 }
